@@ -3,8 +3,8 @@
 
 - 🔭 Apaixonado por tecnologia
 - 🌱 Estudante Analise e Desenvolvimento de Sistemas 3/5
-- ✨ Desejo futuramente trabalhar com Desenvolvedor Front End
-- ✨ Trabalho com Auxiliar de Redes na empresa DIGITALNET
+- 🔭 Desejo futuramente trabalhar com Desenvolvedor Front End
+- ✨ Trabalho como Auxiliar de Redes na empresa DIGITALNET
 
 <div align="center">
   <a href="https://github.com/MatheusNxt25">
