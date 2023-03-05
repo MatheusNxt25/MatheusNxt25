@@ -1,10 +1,10 @@
-###  Olá! Eu sou o Matheus
+###  Hello! I'm Matheus
 
 
-- 🔭 Apaixonado por tecnologia
-- 🌱 Estudante Analise e Desenvolvimento de Sistemas 5/5
-- 🔭 Desejo futuramente trabalhar como Desenvolvedor Front End
-- ✨ Trabalho como Auxiliar de Redes na empresa DIGITALNET
+- 🔭 Passionate about technology
+- 🌱 Student Analysis and Systems Development 5/5
+- 🔭 I wish to work as a Front End Developer in the future
+- ✨ I work as a Network Assistant at the company DIGITALNET
 
 <div align="center">
   <a href="https://github.com/MatheusNxt25">
