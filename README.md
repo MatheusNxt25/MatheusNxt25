@@ -2,7 +2,7 @@
 
 
 - 🔭 Apaixonado por tecnologia
-- 🌱 Estudante Analise e Desenvolvimento de Sistemas 4/5
+- 🌱 Estudante Analise e Desenvolvimento de Sistemas 5/5
 - 🔭 Desejo futuramente trabalhar como Desenvolvedor Front End
 - ✨ Trabalho como Auxiliar de Redes na empresa DIGITALNET
 
