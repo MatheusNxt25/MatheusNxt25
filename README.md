@@ -1,4 +1,7 @@
 ###  Hello! I'm Matheus
+<p align="center">
+  <img height="100" alt="Hello world" src="https://i0.wp.com/polekon.org/wp-content/uploads/2021/12/hello_world_title3.gif?resize=700%2C239&ssl=1">
+</p>
 
 
 - 🔭 Passionate about technology
