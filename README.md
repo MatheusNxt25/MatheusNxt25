@@ -34,12 +34,12 @@
      <a href="https://www.linkedin.com/in/matheus-oliveira-251a06154/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style =for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 </div>
+<br></br>
 
+![Profile views](https://gpvc.arturio.dev/MatheusNxt25)
 
-<p align="center">
-    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MatheusNxt25)  
-  ![GitHub streak stats](https://streak-stats.demolab.com/?user=MatheusNxt25)  
-<p/>
+    
+
 
 
 
