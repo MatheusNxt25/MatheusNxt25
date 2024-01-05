@@ -4,10 +4,16 @@
 </p>
 
 
-- 🔭 Passionate about technology
-- 🌱 Student Analysis and Systems Development 5/5
-- 🔭 I wish to work as a Front End Developer in the future
-- ✨ I work as a Network Assistant at the company DIGITALNET
+🖥️ My professional journey includes challenging projects that have allowed me to enhance my skills in web and mobile development. I specialize in [ReactJs, React Native, Expo, Bootstrap], and I'm constantly seeking to learn and implement the latest trends and technologies in the market.
+
+💡 I firmly believe in the importance of collaboration and teamwork to achieve exceptional results. I thrive in dynamic environments where I can contribute innovative ideas and learn from talented colleagues.
+
+🌟 Beyond my technical expertise, I value clear and effective communication. I believe that the ability to translate complex concepts into accessible language is crucial for the success of any project.
+
+🚀 I'm always on the lookout for new challenges and opportunities to apply my passion for technology and contribute to solutions that positively impact people's lives.
+
+📫 Let's connect and exchange ideas! I'm open to collaborations, interesting projects, and networking with tech professionals worldwide.
+
 
 <div align="center">
   <a href="https://github.com/MatheusNxt25">
