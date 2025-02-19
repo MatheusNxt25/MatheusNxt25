@@ -4,7 +4,9 @@
 </p>
 
 
-🖥️ My professional journey includes challenging projects that have allowed me to enhance my skills in web and mobile development. I specialize in [ReactJs, React Native, Expo, Bootstrap], and I'm constantly seeking to learn and implement the latest trends and technologies in the market.
+🖥️ 👋Hello! I'm Matheus Oliveira, I'm 25 years old, a network analyst and web developer.
+
+🖥️ My professional journey includes challenging projects that have allowed me to enhance my skills in web development. I specialize in [JavaScript, HTTML ,CSS, Bootstrap], and I'm constantly seeking to learn and implement the latest trends and technologies in the market.
 
 💡 I firmly believe in the importance of collaboration and teamwork to achieve exceptional results. I thrive in dynamic environments where I can contribute innovative ideas and learn from talented colleagues.
 
